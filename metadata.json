@@ -1,0 +1,7 @@
+{
+  "name": "Inteligência Aramis",
+  "description": "Aplicativo de provador virtual que permite aos usuários visualizar como ficariam vestindo roupas reais da loja. O sistema utiliza IA para sobrepor digitalmente roupas e sapatos na foto do cliente, criando uma visão fotorrealista e personalizada.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
